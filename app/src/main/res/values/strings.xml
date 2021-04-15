@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlefTest</string>
+    <string name="error_offline">Internet not available!</string>
+    <string name="error_server">Error server!</string>
+</resources>
